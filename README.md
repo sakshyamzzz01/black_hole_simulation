@@ -75,4 +75,3 @@ C:\black_hole_simulation\out\build\x64-Debug\Debug\BlackHole2D.exe
 ### How to run in Antigravity IDE
 1. Open the project folder in Antigravity IDE.
 2. You can open a new terminal (Ctrl+`) and run the CMake configure and build commands listed above.
-3. Alternatively, simply ask the Antigravity assistant: "Build and run the 3D black hole simulation" and it will handle the environment setup and execution for you!
