@@ -34,7 +34,7 @@ Tracked source files:
 ## How to build and run from a clean state
 
 ### 1. Prerequisites
-- Visual Studio IDE 2022/2026 with C++ workload and Windows SDK
+- Visual Studio IDE 2022/2026 with C++ workload and Windows SDK OR Antigravity IDE with C++ extensions
 - CMake
 - vcpkg with these packages installed for `x64-windows`:
   
