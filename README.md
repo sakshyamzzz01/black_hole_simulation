@@ -1,12 +1,5 @@
 # Black Hole Simulation — Project Summary & Setup Guide
 
-## (you can skip this)
-I was just surfing in youtube and I got recommended by a video by kavan called "simulating blackhole in c++".
-And as a second semester student I got so highly motivated that I decided to build it as my semester project.
-I dont know how many times I watched the video by kavan(He is the goat).
-And finally after nearly 3 months in a midnight, it was completed.
-I did the mistake to remember every code syntax and functions. Then after some weeks of boring diary writing and remembering i found out that "apparently there are broiler plates for alot of chunks of codes where we can just copy the code and manipulate it for what we want."
-
 ## Controls
 - **Left Mouse Click + Drag**: Orbit the camera around the black hole.
 - **Scroll Wheel**: Zoom in and out.
